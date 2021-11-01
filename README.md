@@ -10,44 +10,26 @@
 
 ## Code Problems
 
-1. Create a function `betweenFiveAndTen` that takes in an integer, and if that integer is between 5 and 10, it will return true or false.
+1. Write a function named `greatestOfTwo` that takes in two integer arguments and returns the largest of both arguments. You can assume both integers will be different values.
 ```
-betweenFiveAndTen(5) //returns true
-betweenFiveAndTen(15) //returns false 
-```
-
-2. Create a function `betweenTenAndThirty` that takes in an integer, and if that integer is between 10 and 30 it will return true or false.
-```
-betweenTenAndThirty(10) //returns false
-betweenTenAndThirty(15) //returns true
+greatestOfTwo(1, 14) // returns 14
+greatestOfTwo(-2, 2) // returns 2
 ```
 
-3. Create a function `betweenThirtyAndFifty` that takes in an integer, and if that integer is between 30 and 50 it will return true or false.
+2. Write a function named `greatestOfThree` that takes in three integer arguments and returns the largest of all arguments. Solve this problem without using any sorting JavaScript methods. You can assume all integers will be different values.
 ```
-betweenThirtyAndFifty(30) //returns true
-betweenThirtyAndFifty(55) //returns false
-```
-
-4. Create a function `betweenThirtyFiftySeventy` that takes in an integer, and if that integer is between 0 and 30 or between 50 and 70 it will return true or false.
-```
-betweenThirtyFiftySeventy(0) //returns true
-betweenThirtyFiftySeventy(44) //returns false
-betweenThirtyFiftySeventy(55) //returns true
-betweenThirtyFiftySeventy(71) //returns false
+greatestOfThree(-5, -2, -6) // returns -2
+greatestOfThree(3, 2, 11) // returns 11
 ```
 
-5. Create a function `betweenTwentyFiftySixty` that takes in an integer, and if that integer is between 0 and 20 or between 50 and 60 it will return true or false.
+3.  Write a function named `greatestOfFour` that takes in four integer arguments and returns the largest of all arguments. Solve this problem without using any sorting JavaScript methods. You can assume all integers will be different values.
 ```
-betweenTwentyFiftySixty(12) //returns true
-betweenTwentyFiftySixty(44) //returns false
-betweenTwentyFiftySixty(55) //returns true
-betweenTwentyFiftySixty(61) //returns false
+greatestOfFour(-5, -2, -6, 0) // returns 0
+greatestOfFour(10, 2, 6, 11) // returns 11
 ```
 
-6. Create a function `betweenTenTwentyThirty` that takes in an  integer, and if that integer is between 0 and 10 or between 20 and 30 it will return true or false
+4. Write a function named `leastOfFour` that takes in four integer arguments and returns the least of all arguments. Solve this problem without using any sorting JavaScript methods. You can assume all integers will be different values.
 ```
-betweenTenTwentyThirty(0) //returns true
-betweenTenTwentyThirty(9) //returns true
-betweenTenTwentyThirty(22) //returns true
-betweenTenTwentyThirty(31) //returns false
+leastOfFour(-5, -2, -6, 0) // returns -6
+leastOfFour(10, 2, 6, 11) // returns 2
 ```
