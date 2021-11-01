@@ -1,30 +1,20 @@
 //1
-function betweenFiveAndTen(){
+function greatestOfTwo(){
   
 }
 
 //2
-function betweenTenAndThirty(){
+function greatestOfThree(){
   
 }
 
 //3
-function betweenThirtyAndFifty(){
+function greatestOfFour(){
   
 }
 
 
 //4
-function betweenThirtyFiftySeventy(){
-  
-}
-
-//5
-function betweenTwentyFiftySixty(){
-  
-}
-
-//6
-function betweenTenTwentyThirty(){
+function leastOfFour(){
   
 }
