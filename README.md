@@ -2,11 +2,12 @@
 
 ## Instructions
 
-1. Clone down this assignment to your `code-challenges' directory in AWS Cloud9.  
-2. Code your solution using JavaScript in `index.js`. 
-3. **Be sure to run and test your code throughly!**
-4. By the end of Code Challenge, **commit and push your changes up to Github**.
-5. Using the browser, verify that your solution is in your remote repo on Github.
+1. Create a folder in your AWS Cloud9 `/environment` directory called `code-challenges`. Inside of the `code-challenges`, create a directory called `unit-0`
+2. Clone down this assignment to your `unit-0' directory. 
+3. Code your solution using JavaScript in `index.js`. 
+4. **Be sure to run and test your code throughly!**
+5. By the end of Code Challenge, **commit and push your changes up to Github**.
+6. Using the browser, verify that your solution is in your remote repo on Github.
 
 ## Code Problems
 
