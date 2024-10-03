@@ -28,8 +28,8 @@
     **Example:**
     
     ```jsx
-    greatestOfThree(5, 2, 6) // returns true
-    greatestOfThree(3, 2, 3) // returns false
+    distinstThree(5, 2, 6) // returns true
+    distinstThree(3, 2, 3) // returns false
     ```
     
 3. Write a function named `isEvenAndPositive` that checks if a number is both even and positive. This function should return a boolean.
